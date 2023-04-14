@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Carrot" size="10.000000 13.965054" />
+    <ImageTarget name="Cucumber" size="10.000000 13.965054" />
+    <ImageTarget name="Tomato" size="10.000000 13.965054" />
+    <ImageTarget name="RedOnion" size="10.000000 13.965054" />
+    <ImageTarget name="Potato" size="10.000000 13.965054" />
+    <ImageTarget name="Mushroom" size="10.000000 13.965054" />
+    <ImageTarget name="Garlic" size="10.000000 13.965054" />
+    <ImageTarget name="Eggplant" size="10.000000 13.965054" />
+    <ImageTarget name="Cabbage" size="10.000000 13.965054" />
+    <ImageTarget name="Broccoli" size="10.000000 13.965054" />
+  </Tracking>
+</QCARConfig>
